@@ -15,21 +15,7 @@ The goal is to automate extraction and analysis of complex pharmaceutical docume
 
 ## 📚 Project Overview
 
-### ✅ Project 1 — How AI Reads Pharmaceutical Documents
-Learn how AI interprets complex regulatory and supply chain documents.
-
-Topics covered:
-- Machine Learning, NLP, and Large Language Models
-- Computer Vision for document understanding
-- OCR fundamentals for scanned pharmaceutical documents
-- Structured vs unstructured regulatory data
-- Understanding pharmaceutical document layouts
-
-➡️ **Outcome:** Understanding how AI systems read and interpret pharmaceutical documentation.
-
----
-
-### ✅ Project 2 — Working With Python for AI Document Processing
+### ✅ Project 1 — Working With Python for AI Document Processing
 Introduction to Python tools used in document automation.
 
 Topics include:
@@ -42,7 +28,7 @@ Topics include:
 
 ---
 
-### ✅ Project 3 — Data Extraction from Documents Using Python
+### ✅ Project 2 — Data Extraction from Documents Using Python
 Build rule-based and programmatic extraction pipelines.
 
 Tasks include:
@@ -55,7 +41,7 @@ Tasks include:
 
 ---
 
-### ✅ Project 4 — Advanced OCR Comparison & Layout-Aware Extraction
+### ✅ Project 3 — Advanced OCR Comparison & Layout-Aware Extraction
 Evaluate OCR engines for pharmaceutical documentation.
 
 OCR engines compared:
@@ -72,7 +58,7 @@ Tasks include:
 
 ---
 
-### ✅ Project 5 — Introduction to Retrieval-Augmented Generation (RAG)
+### ✅ Project 4 — Introduction to Retrieval-Augmented Generation (RAG)
 Build a RAG pipeline to enable intelligent document search.
 
 Topics include:
@@ -85,7 +71,7 @@ Topics include:
 
 ---
 
-### ✅ Project 6 — Advanced RAG with Open-Source Models
+### ✅ Project 5 — Advanced RAG with Open-Source Models
 Improve the RAG pipeline with advanced techniques.
 
 Enhancements include:
@@ -100,7 +86,7 @@ Enhancements include:
 
 ---
 
-### ✅ Project 7 — Blob Processing, Classification, and Routing
+### ✅ Project 6 — Blob Processing, Classification, and Routing
 Process multi-document PDF bundles.
 
 Tasks include:
@@ -117,7 +103,7 @@ Example document types:
 
 ---
 
-### ✅ Project 8 — RAG Chatbot with Gradio Interface
+### ✅ Project 7 — RAG Chatbot with Gradio Interface
 Build a chatbot that interacts with the document pipeline.
 
 Features include:
@@ -134,7 +120,7 @@ Example queries:
 
 ---
 
-### ✅ Project 9 — Final End-to-End Integration
+### ✅ Project 8 — Final End-to-End Integration
 Combine all components into a complete AI-powered document automation system.
 
 Pipeline includes:
